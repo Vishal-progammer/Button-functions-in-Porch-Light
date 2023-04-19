@@ -14,7 +14,7 @@
     mix phx.server
     ```
 
-3. Visit [`localhost:4000`](http://localhost:4000) from your browser.
+3. Visit [`localhost:4001`](http://localhost:4001) from your browser.
 
 ## App Generation
 
